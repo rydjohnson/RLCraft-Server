@@ -29,10 +29,8 @@ docker run -dit -e EULA=true -v rlcraft-server:/server/server-data -p 25565:2556
 
 ## References
 
-- RLCraft main webpage  [https://www.curseforge.com/minecraft/modpacks/rlcraft](https://www.curseforge.com/minecraft/modpacks/rlcraft)
-- Forge Files [https://files.minecraftforge.net/net/minecraftforge/forge/](https://files.minecraftforge.net/net/minecraftforge/forge/)
-- OptiFine 1.12.2 HD U G5  [https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar)
-- JVM Parameters  
-  [https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/)
-- Crontab  
-  [https://www.adminschoice.com/crontab-quick-reference](https://www.adminschoice.com/crontab-quick-reference)
+- [RLCraft main site](https://www.curseforge.com/minecraft/modpacks/rlcraft)
+- [Forge Files](https://files.minecraftforge.net/net/minecraftforge/forge/)
+- [OptiFine 1.12.2 HD U G5](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar)
+- [JVM Parameters](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/)
+- [Crontab](https://www.adminschoice.com/crontab-quick-reference)
