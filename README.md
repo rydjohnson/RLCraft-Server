@@ -31,6 +31,6 @@ docker run -dit -e EULA=true -v rlcraft-server:/server/server-data -p 25565:2556
 
 - [RLCraft main site](https://www.curseforge.com/minecraft/modpacks/rlcraft)
 - [Forge Files](https://files.minecraftforge.net/net/minecraftforge/forge/)
-- [OptiFine 1.12.2 HD U G5](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar)
+- [OptiFine 1.12.2 HD U G5](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar) (Make sure you extract the file so your output file is named OptiFine_1.12.2_HD_U_G5_MOD)
 - [JVM Parameters](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/)
 - [Crontab](https://www.adminschoice.com/crontab-quick-reference)
